@@ -1,4 +1,4 @@
-package com.shimadove.ltd.leetCode_algorithms.java.Wordladder;
+package com.shimadove.ltd.Wordladder;
 
 import java.util.LinkedList;
 import java.util.List;

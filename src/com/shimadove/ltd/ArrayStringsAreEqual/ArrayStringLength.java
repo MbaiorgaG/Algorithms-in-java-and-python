@@ -1,4 +1,4 @@
-package com.shimadove.ltd.leetCode_algorithms.java.ArrayStringsAreEqual;
+package com.shimadove.ltd.ArrayStringsAreEqual;
 public class ArrayStringLength {
 
 	/**

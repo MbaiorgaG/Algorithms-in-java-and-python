@@ -1,4 +1,4 @@
-package com.shimadove.ltd.leetCode_algorithms.java.Qualified;
+package com.shimadove.ltd.Qualified;
 
 
 public class FlipBracket {
